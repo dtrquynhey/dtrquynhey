@@ -25,7 +25,7 @@ Enthusiastic about building robust, scalable systems. Explore my repositories an
 <p align="left">
 <a href="https://linkedin.com/in/truc-quynh-dang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="truc-quynh-dang" height="30" width="40" /></a>
   <a href="mailto:trquynh.dang@gmail.com" target="blank">
-  <img align="center" src="" alt="trquynh.dang@gmail.com" height="30" width="40" />
+  <img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="trquynh.dang@gmail.com" height="30" width="40" />
 </a>
 
 </p>
