@@ -9,7 +9,7 @@ Enthusiastic about building robust, scalable systems. Explore my repositories an
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Swift 
-- 💬 &nbsp;Ask me about anything related to C#/Python/Java or .NET/DJango
+- 💬 &nbsp;Ask me about anything related to C#/Python/Java or .NET
 - 👨‍💻 &nbsp;Read more about my projects at 
 - ⚡ &nbsp;Fun fact: I :heart: 🌧 and 🎥
 
