@@ -1,4 +1,4 @@
-# Truc Quynh Dang &mdash; @quynhincodeland
+# Truc Quynh Dang &mdash; @dtrquynhey
 
 Hi! I'm Quynh👋
 
@@ -16,8 +16,8 @@ Enthusiastic about building robust, scalable systems. Explore my repositories an
 
 ### 🌱 My Contributions So Far!
 <p align="center"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=quynhincodeland&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&bg_color=00000000&text_color=777" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quynhincodeland&hide_border=true&bg_color=00000000&hide=html,css" alt="quynhincodeland" height="200" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dtrquynhey&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&bg_color=00000000&text_color=777" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dtrquynhey&hide_border=true&bg_color=00000000&hide=html,css" alt="dtrquynhey" height="200" />
 </p>
 
 
