@@ -12,13 +12,13 @@
                                          
 Hi guys! I'm Quynh👋
 
-I'm a detail-oriented backend developer with a passion for creating elegant solutions. 
+I'm a detail-oriented junior backend developer with a passion for creating elegant solutions. 
 Currently pursuing a degree in Computer Science with a focus on building efficient and high-quality software. 
 I'm enthusiastic about developing robust and scalable systems. Feel free to explore my repositories, and I'm always open to collaboration!
 
 🔭 &nbsp;I’m currently working on something cool :wink:.</br>
-🌱 &nbsp;I’m currently learning Swift. </br>
-💬 &nbsp;Ask me about anything related to C#/Python/Java or .NET/Django.</br>
+🌱 &nbsp;I’m currently learning Swift, Firebase, and ASP.NET MVC. </br>
+💬 &nbsp;Ask me about anything related to C#/Python/Java or .NET.</br>
 👨‍💻 &nbsp;Read more about my projects at. </br>
 ⚡ &nbsp;Fun fact: I :heart: 🌧 and 🎥.</br>
 
