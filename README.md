@@ -17,7 +17,7 @@ I'm enthusiastic about developing robust and scalable systems. Feel free to expl
 
 🔭 &nbsp;I’m currently working on something cool :wink:.</br>
 🌱 &nbsp;I’m currently learning Swift, Firebase, and ASP.NET MVC. </br>
-💬 &nbsp;Ask me about anything related to C#/Python/Java or .NET.</br>
+💬 &nbsp;Ask me about anything related to C#.</br>
 👨‍💻 &nbsp;Read more about my projects at. </br>
 ⚡ &nbsp;Fun fact: I :heart: 🌧 and 🎥.</br>
 
