@@ -16,7 +16,7 @@ Currently pursuing a degree in Computer Science with a focus on building efficie
 I'm enthusiastic about developing robust and scalable systems. Feel free to explore my repositories, and I'm always open to collaboration!
 
 🔭 &nbsp;I’m currently working on something cool :wink:.</br>
-🌱 &nbsp;I’m currently learning React Native. </br>
+🌱 &nbsp;I’m currently learning UML and React Native. </br>
 💬 &nbsp;Ask me about anything related to C#.</br>
 👨‍💻 &nbsp;Know more about me at <a href="https://dtrquynhey.github.io">Truc Quynh Dang</a>.</br>
 ⚡ &nbsp;Fun fact: I :heart: 🌧 and 🎥.</br>
