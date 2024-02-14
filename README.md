@@ -11,7 +11,7 @@
                                          
 Hi guys! I'm Quynh👋
 
-I'm a detail-oriented junior backend developer with a passion for creating elegant solutions and am actively seeking internship opportunities to further enhance my skills and knowledge.
+I'm a detail-oriented junior software developer with a passion for creating elegant solutions and am actively seeking internship opportunities to further enhance my skills and knowledge.
 Currently pursuing a degree in Computer Science with a focus on building efficient and high-quality software. 
 I'm enthusiastic about developing robust and scalable systems. Feel free to explore my repositories, and I'm always open to collaboration!
 
